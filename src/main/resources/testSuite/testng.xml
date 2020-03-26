@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.MavenTemplates.Automate.GiftBox"/>
+      <class name="com.MavenTemplates.Automate.Snowglobeshaketoreveal"/>
+      <class name="com.MavenTemplates.Automate.Countdown"/>
+      <class name="com.MavenTemplates.Automate.Jackpot"/>
+      <class name="com.MavenTemplates.Automate.Fashionsta"/>
+      <class name="com.MavenTemplates.Automate.Surveytemplate"/>
+      <class name="com.MavenTemplates.Automate.ShaketheCake"/>
+      <class name="com.MavenTemplates.Automate.Cocktailshake"/>
+      <class name="com.MavenTemplates.Automate.DecorateChristmasTree"/>
+      <class name="com.MavenTemplates.Automate.HalloweenSpintheWheel"/>
+      <class name="com.MavenTemplates.Automate.Lipstick"/>
+      <class name="com.MavenTemplates.Automate.TravelSurvey"/>
+      <class name="com.MavenTemplates.Automate.SurfforPrizes"/>
+      <class name="com.MavenTemplates.Automate.Valentinesday"/>
+      <class name="com.MavenTemplates.Automate.Taptorevealprizes"/>
+      <class name="com.MavenTemplates.Automate.StationaryPrize"/>
+      <class name="com.MavenTemplates.Automate.HallloweenGhost"/>
+      <class name="com.MavenTemplates.Automate.MothersDay"/>
+      <class name="com.MavenTemplates.Automate.WheelofFortune"/>
+      <class name="com.MavenTemplates.Automate.TaptorevealValentine"/>
+      <class name="com.MavenTemplates.Automate.AdventCalendar"/>
+      <class name="com.MavenTemplates.Automate.BirthdayWheel"/>
+      <class name="com.MavenTemplates.Automate.ShaketorevealPrizes"/>
+      <class name="com.MavenTemplates.Automate.WheelValentines"/>
+      <class name="com.MavenTemplates.Automate.Swipesurveytemplate2"/>
+      <class name="com.MavenTemplates.Automate.OpenGiftBox"/>
+      <class name="com.MavenTemplates.Automate.BeautySwipe"/>
+      <class name="com.MavenTemplates.Automate.Movember"/>
+      <class name="com.MavenTemplates.Automate.Summerwheel"/>
+      <class name="com.MavenTemplates.Automate.Christmas12days"/>
+      <class name="com.MavenTemplates.Automate.StPatrick"/>
+      <class name="com.MavenTemplates.Automate.EnrichandReveal"/>
+      <class name="com.MavenTemplates.Automate.ChineseNewYear"/>
+      <class name="com.MavenTemplates.Automate.CyberMondayPrize"/>
+      <class name="com.MavenTemplates.Automate.CracktheEgg"/>
+      <class name="com.MavenTemplates.Automate.HalloweenSwipe"/>
+      <class name="com.MavenTemplates.Automate.ShakeCoconut"/>
+      <class name="com.MavenTemplates.Automate.Swipesurveytemplate"/>
+      <class name="com.MavenTemplates.Automate.TreasureIsland"/>
+      <class name="com.MavenTemplates.Automate.Burgershake"/>
+      <class name="com.MavenTemplates.Automate.Eastertaptoreveal"/>
+      <class name="com.MavenTemplates.Automate.SummerJackpot"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
